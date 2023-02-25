@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CSI261IterativeandRecursiveLab", "CSI261IterativeandRecursiveLab.pyproj", "{6DA69723-0E93-4148-8C02-DC43CD3DAC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA69723-0E93-4148-8C02-DC43CD3DAC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA69723-0E93-4148-8C02-DC43CD3DAC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C365CC-5664-49B7-A306-620F1A5E0154}
+	EndGlobalSection
+EndGlobal
